@@ -1,9 +1,11 @@
 LBL
 ===
 
-LBL calc - hydroacustic array UTM beacon position calcSimple program for finding coordinates for 
-HiPAP LBL (long baseline) transponders used for DP reference systems. Designed for ultra deep water 
-drilling operation. All coordinates are in UTM - Universal Transverse Mercator geographic system. 
+LBL calc - hydroacustic array UTM beacon position calc
+
+Simple program for finding coordinates forHiPAP LBL (long baseline) transponders used for DP reference systems. 
+Designed for ultra deep water  drilling operation. All coordinates are in UTM - Universal Transverse Mercator 
+geographic system. 
 Ideal for use with HiPAP/HAIN reference systems (High Precision Acoustic Positioning/Hydroacoustic 
 Aided Inertial Navigation) based on cNode transponders. (SPT/MPT beacons are up to 700m water depth). 
 Please choose radius of beacon circle, just remember as rule of thumb is recommended that radius is 
